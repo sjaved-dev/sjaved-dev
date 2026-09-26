@@ -14,5 +14,8 @@ I bridge the gap between advanced computing environments, automated data archite
 - **Tools:** Jupyter Notebook, PyCharm, VS Code, Git, SAP ERP Integration
 
 ### 📂 Active Technical Case Studies
-- 📊 [Multi-Cloud Security & Data Governance Framework](https://github.com) - My postgraduate dissertation analyzing cross-border data vulnerabilities and risk distributions across AWS, Azure, GCP, and Alibaba Cloud.
-- 🎮 [3D Modular Engine Development](https://github.com) - My BSc capstone project focused on real-time rendering pipelines, low-latency object pooling, and low-level thread performance optimization in C++.
+- 📊 [Multi-Cloud Security & Data Governance Framework](https://github.com) - My postgraduate dissertation analyzing cross-border data vulnerabilities and risk distributions across global cloud providers.
+- ☁️ [Secure Non-Profit Cloud Migration Matrix](https://github.com) - Practical architecture and cyber risk modeling implemented for non-profit infrastructure alignment (Aghna Foundation).
+- ⚙️ [Enterprise Workflow Automation Pipelines](https://github.com) - Standardized Python ETL script structures and data normalization architectures modeled on manufacturing log workflows (Haier Group / Intagleo Systems).
+- 💻 [Agile Software Development Patterns](https://github.com) - Foundational application development modules, clean coding practices, and component designs (2B Tech Internship).
+- 🎮 [3D Modular Engine Development](https://github.com) - My BSc capstone project focused on real-time rendering pipelines, memory optimizations, and low-level thread performance in C++.
